@@ -1,0 +1,247 @@
+@charset "UTF-8";.discussionList{position:relative;zoom:1}.discussionList .sectionHeaders,.discussionListItem{display:table;table-layout:fixed;width:100%;word-wrap:normal}.discussionList .sectionHeaders dt,
+.discussionList .sectionHeaders dd,
+.discussionListItem
+.listBlock{display:table-cell;vertical-align:middle}.discussionList
+.posterAvatar{width:52px}.discussionList
+.main{width:auto}.discussionList .sectionHeaders .main
+.postDate{text-align:left}.discussionList
+.stats{width:140px}.discussionList .sectionHeaders .stats
+.minor{text-align:left}.discussionList
+.lastPost{width:150px;text-align:left;overflow:hidden}.discussionList
+.statsLastPost{width:290px}.discussionList
+.sectionHeaders{font-size:14px;font-family:DroidKufi-Regular;color:rgb(255, 255, 255);background-color:#123465;padding:12px
+10px;margin:3px
+auto 0;-webkit-border-radius:0px;-moz-border-radius:0px;-khtml-border-radius:0px;border-radius:0px;padding:0}.discussionList .sectionHeaders dt
+span{display:none !important}.discussionList .sectionHeaders
+a{display:block;color:rgb(255, 255, 255);outline:none}.discussionList .sectionHeaders a:hover{text-decoration:none}.discussionList .sectionHeaders dd a[href]:hover{text-decoration:none;background:url(rgba.php?r=232&g=232&b=232&a=25);background:rgba(232, 232, 232, 0.1);_filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#19E8E8E8,endColorstr=#19E8E8E8)}.discussionList .sectionHeaders .main a,
+.discussionList .sectionHeaders .stats
+a{float:right;width:50%;white-space:nowrap}.discussionList .sectionHeaders a
+span{padding:12px
+10px;display:block}.discussionList .sectionHeaders,.discussionListItem{*display:block;_vertical-align:bottom}.discussionList .sectionHeaders dt,
+.discussionList .sectionHeaders dd,
+.discussionListItem
+.listBlock{*display:block;*float:right}.discussionListItem
+.listBlock{_height:52px;*min-height:52px}.discussionList
+.posterAvatar{*width:6.98%}.discussionListItem
+.posterAvatar{*font-size:0}.discussionList
+.main{*width:56.98%}.discussionList
+.stats{*width:15.97%}.discussionList
+.lastPost{*width:19.97%}.discussionList
+.statsLastPost{*width:35.97%}.discussionList .sectionHeaders dt,
+.discussionList .sectionHeaders
+dd{*padding:5px
+0}.discussionList .sectionHeaders a,
+.discussionList .sectionHeaders a
+span{*display:inline !important;*float:none !important}.discussionListItems{}.discussionListItem{background-color:rgb(255, 255, 255);border-bottom:1px solid rgb(235, 235, 235);padding:8px
+0px}.discussionListItem .posterAvatar
+.avatarContainer{display:block;position:relative}.discussionListItem .posterAvatar
+.avatar{padding:5px;display:block;width:36px;height:36px;width:auto;height:auto}.discussionListItem .posterAvatar .avatar
+img{width:36px;height:36px;display:block}.discussionListItem .posterAvatar
+.miniMe{padding:0;position:absolute;bottom:1px;right:29px;z-index:10}.discussionListItem .posterAvatar .miniMe
+img{padding:1px;border:1px
+none black;-webkit-border-radius:0px;-moz-border-radius:0px;-khtml-border-radius:0px;border-radius:0px;-webkit-box-shadow: -1px 1px 5px rgba(0,0,0, 0.5);-moz-box-shadow: -1px 1px 5px rgba(0,0,0, 0.5);-khtml-box-shadow: -1px 1px 5px rgba(0,0,0, 0.5);box-shadow: -1px 1px 5px rgba(0,0,0, 0.5);width:20px;height:20px}.discussionListItem
+.titleText{padding:5px;overflow:hidden;zoom:1;position:relative}.LoggedIn .discussionListItem
+.titleText{padding-right:20px}.LoggedIn .discussionListItem .unreadLink,
+.LoggedIn .discussionListItem
+.ReadToggle{display:block;width:10px;height:10px;position:absolute;right:5px;top:10px;white-space:nowrap;color:#ffbc11;font-size:11px}.LoggedIn .discussionListItem .ReadToggle:hover{background-position: -25px -42px}.discussionListItem
+.title{font-size:14px;margin-bottom:5px;line-height:18px;max-width:100%;word-wrap:break-word}.discussionListItems .unread .title
+a{font-weight:bold}.discussionListItem .iconKey
+span{margin-right:5px;float:left;font-size:14px;width:16px;height:16px}.discussionListItem
+.secondRow{font-size:10px;clear:both}.discussionListItem .secondRow
+.controls{float:left;padding-right:20px}.discussionListItem.AjaxProgress
+.controls{background:transparent url('styles/flatawesome/xenforo/widgets/ajaxload.info_B4B4DC_facebook.gif') no-repeat right center}.discussionListItem
+.posterDate{float:right}.discussionListItem .stats
+dl{padding:0
+10px;border-right:1px solid rgb(239, 239, 239);border-left:1px solid rgb(239, 239, 239)}.discussionListItem .stats
+.major{font-size:14px;margin-bottom:5px;line-height:18px;margin-top:5px}.discussionListItem .stats
+.minor{font-size:10px;margin-bottom:5px}.discussionListItem
+.lastPostInfo{padding:5px}.discussionListItem .lastPostInfo
+.username{font-size:14px;margin-bottom:5px;line-height:18px}.discussionListItems .unread .lastPostInfo
+.username{font-weight:bold}.discussionListItem .lastPostInfo
+.dateTime{font-size:10px}.discussionListItem
+.noteRow{background-color:rgb(255, 255, 255);padding:5px;text-align:center;font-size:11px;color:rgb(70, 70, 70)}.discussionList
+.discussionListItem.deleted{}.discussionList .discussionListItem.deleted .avatar
+img{opacity:0.5;filter:alpha(opacity='50')}.discussionList .discussionListItem.deleted
+.deletionNote{float:right;color:rgb(150,0,0)}.discussionList .discussionListItem.moderated
+.listBlock{background-color:rgb(255, 255, 255)}.discussionListItem.InlineModChecked,
+.discussionListItem.InlineModChecked .posterAvatar,
+.discussionListItem.InlineModChecked .main,
+.discussionListItem.InlineModChecked .stats,
+.discussionListItem.InlineModChecked .lastPost,.discussionListItem.deleted.InlineModChecked,.discussionListItem.moderated.InlineModChecked{background-color:rgb(255, 255, 200)}.discussionList
+.sectionFooter{overflow:hidden;zoom:1}.discussionList .sectionFooter
+.contentSummary{float:right;display:block}.DiscussionListOptions{margin:10px
+auto;border:1px
+solid rgb(222, 222, 222);-webkit-border-radius:0px;-moz-border-radius:0px;-khtml-border-radius:0px;border-radius:0px;line-height:20px;overflow:hidden;zoom:1}.hasJs
+.DiscussionListOptions{display:none}.DiscussionListOptions dl,
+.DiscussionListOptions
+.controlGroup{float:right;margin-left:10px;overflow:hidden;zoom:1}.DiscussionListOptions
+dt{float:right}.DiscussionListOptions
+dd{margin-right:120px}.DiscussionListOptions
+.buttonGroup{float:left}.DiscussionListOptions .buttonGroup
+input{min-width:75px}#DiscussionListOptionsHandle{position:absolute;bottom: -17px;line-height:16px;text-align:center;left:50%;white-space:nowrap}#DiscussionListOptionsHandle
+a{font-size:10px;color:#123465;background-color:;padding:5px
+20px;margin:0
+auto;border:1px
+solid rgb(222, 222, 222);border-top:1px none black;-webkit-border-bottom-left-radius:0px;-moz-border-radius-bottomleft:0px;-khtml-border-bottom-left-radius:0px;border-bottom-left-radius:0px;-webkit-border-bottom-right-radius:0px;-moz-border-radius-bottomright:0px;-khtml-border-bottom-right-radius:0px;border-bottom-right-radius:0px;display:inline-block;outline:0;position:relative;left: -50%;top:10px}.afterDiscussionListHandle{margin-top:20px}.discussionListItem
+.itemPageNav{visibility:hidden}.discussionListItem:hover .itemPageNav,
+.Touch .discussionListItem
+.itemPageNav{visibility:visible}.itemPageNav a,
+.itemPageNav
+span{font-size:10px;color:rgb(45, 45, 45) !important;padding:0
+3px;-webkit-border-radius:0px;-moz-border-radius:0px;-khtml-border-radius:0px;border-radius:0px;display:inline-block;text-align:center}body .itemPageNav
+a{color:rgb(45, 45, 45) !important;background-color:rgb(232, 232, 232);border:1px
+solid rgb(203, 203, 203)}body .itemPageNav a:hover{color:#123465;text-decoration:none;background-color:rgb(203,203,203);border-color:rgb(156,156,156)}.discussionListFilters{font-size:11px;overflow:hidden;zoom:1}.discussionListFilters
+.filtersHeading{float:right;margin-left:5px;color:rgb(112, 112, 112);font-weight:bold}.discussionListFilters .removeFilter,
+.discussionListFilters
+.removeAllFilters{color:rgb(70, 70, 70);background-color rgb(239, 239, 239);border:1px
+solid rgb(239, 239, 239);-webkit-border-radius:5px;-moz-border-radius:5px;-khtml-border-radius:5px;border-radius:5px;padding:2px
+10px}.discussionListFilters
+.gadget{color:rgb(112, 112, 112);font-weight:bold;margin-right:3px}.discussionListFilters .removeFilter:hover,
+.discussionListFilters .removeAllFilters:hover{background-color:rgb(245, 245, 245);text-decoration:none;color:rgb(113, 113, 113);-webkit-box-shadow: -1px 1px 5px rgba(0,0,0, 0.15);-moz-box-shadow: -1px 1px 5px rgba(0,0,0, 0.15);-khtml-box-shadow: -1px 1px 5px rgba(0,0,0, 0.15);box-shadow: -1px 1px 5px rgba(0,0,0, 0.15)}.discussionListFilters .pairsInline
+dt{display:none}.discussionListFilters
+.filterPairs{float:right}.discussionListFilters
+.removeAll{float:left}.discussionListFilters
+.removeAllFilters{padding:2px
+6px}@media (max-width:610px){.Responsive .discussionList .sectionHeaders
+.stats{display:none}.Responsive .discussionList .sectionHeaders .main
+.title{float:none;width:auto}.Responsive .discussionList .sectionHeaders .main
+.postDate{display:none}.Responsive .discussionList
+.statsLastPost{display:none}.Responsive .discussionListItem .listBlock.main,
+.Responsive .discussionListItem .listBlock.stats,
+.Responsive .discussionListItem
+.listBlock.lastPost{display:block}.Responsive .discussionListItem
+.listBlock.stats{float:right;width:auto;margin-top: -5px;border:none;background:none;padding-right:5px}.Responsive.LoggedIn .discussionListItem
+.listBlock.stats{padding-right:20px}.Responsive .discussionListItem .listBlock.stats
+dl{border:none;padding:0}.Responsive .discussionListItem .listBlock.stats dd,
+.Responsive .discussionListItem .listBlock.stats
+dt{float:none;display:inline}.Responsive .discussionListItem .listBlock.stats
+.minor{display:none}.Responsive .discussionListItem .listBlock.stats
+.major{font-size:11px;margin-top:0}.Responsive .discussionListItem
+.listBlock.lastPost{float:left;width:auto;margin-top: -5px}.Responsive .discussionListItem .listBlock.lastPost
+.lastPostInfo{padding-top:0;padding-bottom:0}.Responsive .discussionListItem .listBlock.lastPost
+dt{display:none}}@media (max-width:800px){.Responsive .discussionList .sectionHeaders .lastPost,
+.Responsive .discussionList
+.lastPost{width:125px}}@media (max-width:480px){.Responsive .discussionListItem .secondRow .startDate,
+.Responsive .discussionListItem .secondRow
+.EditControl{display:none}}.socialicons{float:left;margin-top:10px}.socialicons
+li{display:inline-block}.socialicons li
+a{padding:10px;font-size:24px;color:rgb(20,20,20)}.socialicons li a:hover{color:#123465}.nodeList{zoom:1}.nodeList
+.node{zoom:1;vertical-align:bottom}.nodeList
+.node.level_1{margin-bottom:20px}.nodeList .node.level_1:last-child{margin-bottom:0}.nodeList .node.groupNoChildren+.node.groupNoChildren{margin-top: -20px}.node
+.nodeInfo{overflow:hidden;zoom:1;position:relative}.node .nodeInfo.primaryContent,
+.node
+.nodeInfo.secondaryContent{padding:0}.node
+.nodeIcon{margin:10px
+10px 10px 0;float:right;font-size:30px;color:#ffbc11;width:36px;height:36px}.node .forumNodeInfo .nodeIcon,
+.node .categoryForumNodeInfo
+.nodeIcon{}.node .forumNodeInfo.unread .nodeIcon,
+.node .categoryForumNodeInfo.unread
+.nodeIcon{}.node .pageNodeInfo
+.nodeIcon{}.node .linkNodeInfo
+.nodeIcon{}.node
+.nodeText{margin:15px
+56px 15px 270px}.node .nodeText
+.nodeTitle{font-size:14px}.node .unread .nodeText
+.nodeTitle{font-weight:bold}.node
+.nodeDescription{font-size:10px}.hasJs .node
+.nodeDescriptionTooltip{display:none}.Touch .node
+.nodeDescriptionTooltip{display:block}.node
+.nodeStats{font-size:10px;margin-top:2px}.node
+.nodeExtraNote{text-align:left;font-size:11px;color:rgb(113, 113, 113)}.node
+.subForumList{overflow:hidden;*zoom:1;margin:-5px 0 15px;margin-right:56px}.node .subForumList
+li{float:right;width:31%;margin:2px
+2% 2px 0}.node .subForumList li
+.nodeTitle{font-size:11px;overflow:hidden;white-space:nowrap;word-wrap:normal;text-overflow:ellipsis}.node .subForumList .unread
+.nodeTitle{font-weight:bold}.node .subForumList li ol,
+.node .subForumList li
+ul{display:none}.node
+.nodeLastPost{background-color:rgb(255, 255, 255);padding:10px;border-bottom:1px solid rgb(239, 239, 239);font-size:10px;background:url(rgba.php?r=0&g=0&b=0&a=0);background:rgba(0, 0, 0, 0);_filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#00000000,endColorstr=#00000000);padding:3px
+10px;margin:10px;border-width:0px;position:absolute;top:2px;left:0;line-height:18px;white-space:nowrap;word-wrap:normal;overflow:hidden;width:210px;height:35px}.node .nodeLastPost
+.lastThreadTitle{text-overflow:ellipsis;max-width:100%;display:block;overflow:hidden}.node .nodeLastPost
+.lastThreadMeta{display:block}.node .nodeLastPost
+.noMessages{line-height:28px}.node
+.nodeControls{position:absolute;top:0;left:240px;margin:20px
+0}.node
+.tinyIcon{font-size:17px;color:rgb(255, 102, 0);background-color:transparent;margin:0px
+4px 1px 6px;display:block;opacity:0.25}.node .nodeInfo:hover .tinyIcon[href],
+.Touch .node
+.tinyIcon{opacity:1}.nodeDescriptionTip{padding:4px
+10px;margin-top: -22px;line-height:1.5;width:350px;height:auto}.nodeDescriptionTip
+.arrow{background-color:#123465;border:6px
+solid transparent;border-left-color:rgb(0,0,0);border-left-color:rgba(0,0,0, 0.6);_border-left-color:rgb(0,0,0);border-right:1px none black;top:6px;right: -6px;bottom:auto}.nodeDescriptionTip.arrowBottom
+.arrow{top:auto;right:10px;bottom: -6px;border:6px
+solid transparent;border-top-color:rgb(0,0,0);border-top-color:rgba(0,0,0, 0.6);_border-top-color:rgb(0,0,0);border-bottom:1px none black}.nodeList .categoryForumNodeInfo,
+.nodeList .forumNodeInfo,
+.nodeList .pageNodeInfo,
+.nodeList
+.linkNodeInfo{background-color:rgb(255, 255, 255);padding:10px;border-bottom:1px solid rgb(235, 235, 235);padding:0}.nodeList
+.categoryStrip{font-size:14px;font-family:DroidKufi-Regular;color:rgb(255, 255, 255);background-color:#123465;padding:12px
+10px;margin:3px
+auto 0;-webkit-border-radius:0px;-moz-border-radius:0px;-khtml-border-radius:0px;border-radius:0px;background-color:#123465;margin:0;border-bottom-color:;min-height:6px}.nodeList .categoryStrip
+.nodeTitle{font-size:14px;color:rgb(255, 255, 255)}.nodeList .categoryStrip .nodeTitle
+a{color:rgb(255, 255, 255)}.nodeList .categoryStrip
+.nodeDescription{font-size:10px;color:rgb(255, 255, 255)}.nodeList .categoryStrip .nodeDescription
+a{color:rgb(255, 255, 255)}.nodeList .node.groupNoChildren + .node.groupNoChildren
+.categoryStrip{display:none}.nodeStats{overflow:hidden;zoom:1}.nodeStats dl,.subForumsPopup{float:right;display:block;margin-left:3px}.subForumsPopup.Popup
+.PopupControl.PopupOpen{background-image:none}.subForumsPopup
+a.PopupControl{padding-right:5px;padding-left:5px}.subForumsPopup
+.dt{color:rgb(113, 113, 113)}.subForumsPopup .PopupOpen
+.dt{color:rgb(20,20,20)}.subForumsMenu .node
+.node{padding-right:10px}.subForumsMenu .node
+.nodeTitle{font-size:11px}.subForumsMenu .node .unread
+.nodeTitle{font-weight:bold}.nodeListNewDiscussionButton{margin-top:10px;text-align:left}@media (max-width:610px){.Responsive .node
+.nodeText{margin-left:0}.Responsive.Touch .node .nodeDescriptionTooltip,
+.Responsive .node
+.nodeDescription{display:none}.Responsive .node
+.nodeLastPost{position:static;height:auto;width:auto;background:none;border:none;padding:0;margin:-13px 56px 15px 0}.Responsive .node .nodeLastPost
+.noMessages{display:none}.Responsive .node .nodeLastPost .lastThreadTitle,
+.Responsive .node .nodeLastPost
+.lastThreadUser{display:none}.Responsive .node .nodeLastPost .lastThreadDate:before{content:attr(data-latest)}.Responsive .node
+.nodeControls{display:none}.Responsive .node
+.subForumList{display:none}.Responsive
+.nodeDescriptionTip{width:auto;max-width:350px}}@media (max-width:480px){.Responsive
+.subForumsPopup{display:none}}.hasJs .FloatingContainer
+.Notice{display:none}.FloatingContainer{position:fixed;width:300px;z-index:9997;top:auto;right:auto;bottom:0;left:20px}.Notices .Notice
+.blockImage{padding:10px
+10px 5px 0}.Notices .Notice .blockImage,
+.FloatingContainer
+.floatingImage{float:right}.Notices .Notice .blockImage img,
+.FloatingContainer .floatingImage
+img{max-width:48px;max-height:48px}.Notices .hasImage,
+.FloatingContainer
+.hasImage{margin-right:64px;min-height:52px}.FloatingContainer
+.floatingItem{display:block;padding:10px;font-size:11px;position:relative;margin-bottom:20px;border:1px
+solid transparent;-webkit-border-radius:6px;-moz-border-radius:6px;-khtml-border-radius:6px;border-radius:6px;-webkit-box-shadow: -1px 1px 3px rgba(0,0,0, 0.25);-moz-box-shadow: -1px 1px 3px rgba(0,0,0, 0.25);-khtml-box-shadow: -1px 1px 3px rgba(0,0,0, 0.25);box-shadow: -1px 1px 3px rgba(0,0,0, 0.25)}.FloatingContainer
+.floatingItem.primary{background-color:rgb(255, 255, 255);border-color:rgb(222, 222, 222)}.FloatingContainer
+.floatingItem.secondary{color:#123465;background-color:rgb(156, 156, 156);border-color:rgb(203, 203, 203)}.FloatingContainer
+.floatingItem.dark{color:#fff;background:black;background:url(rgba.php?r=0&g=0&b=0&a=204);background:rgba(0,0,0, 0.8);_filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC000000,endColorstr=#CC000000);border-color:#333}.FloatingContainer
+.floatingItem.light{color:#000;background:white;background:url(rgba.php?r=255&g=255&b=255&a=204);background:rgba(255,255,255, 0.8);_filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCFFFFFF,endColorstr=#CCFFFFFF);border-color:#ddd}.FloatingContainer .floatingItem
+.title{font-size:14px;padding-bottom:5px;font-weight:bold;display:block}.FloatingContainer .floatingItem
+.DismissCtrl{position:static;float:left;margin-right:5px;margin-left: -5px;margin-top: -5px}.Notices{display:none}@media (max-width:800px){.Responsive
+.Notice.wide{display:none !important}}@media (max-width:610px){.Responsive
+.Notice.medium{display:none !important}}@media (max-width:480px){.Responsive
+.Notice.narrow{display:none !important}.Responsive
+.FloatingContainer{left:50%;margin-left: -150px}}.hasJs
+.Notices.PanelScroller{display:none}.PanelScroller .scrollContainer,
+.PanelScrollerOff
+.panel{background-color:rgb(25, 175, 126);padding:3px;margin-bottom:10px;-webkit-border-radius:0px;-moz-border-radius:0px;-khtml-border-radius:0px;border-radius:0px;font-size:13pt}.PanelScroller
+.PanelContainer{position:relative;clear:both;width:100%;overflow:auto}.hasJs .PanelScroller
+.Panels{position:absolute}.PanelScroller
+.Panels{clear:both;margin:0;padding:0}.PanelScroller .panel,
+.PanelScrollerOff
+.panel{overflow:hidden;position:relative;padding:0
+!important;padding:10px;color:#FFF}.PanelScroller .panel .noticeContent,
+.PanelScrollerOff .panel
+.noticeContent{padding:10px}.PanelScroller
+.navContainer{margin:-11px 21px 10px;overflow:hidden;zoom:1}.PanelScroller
+.navControls{float:left}.PanelScroller
+.navControls{zoom:1}.PanelScroller .navControls:after{content:'.';display:block;height:0;clear:both;visibility:hidden}.PanelScroller .navControls
+a{font-size:11px;color:rgb(255, 255, 255);background-color:rgb(25, 175, 126);padding:3px
+6px 2px;margin-left:3px;margin-right: -1px;float:right;display:block;position:relative;-webkit-border-radius:0px;-moz-border-radius:0px;-khtml-border-radius:0px;border-radius:0px;-webkit-border-radius:0;-moz-border-radius:0;-khtml-border-radius:0;border-radius:0}.PanelScroller .navControls>a:first-child{-webkit-border-bottom-right-radius:0px;-moz-border-radius-bottomright:0px;-khtml-border-bottom-right-radius:0px;border-bottom-right-radius:0px}.PanelScroller .navControls>a:last-child{-webkit-border-bottom-left-radius:0px;-moz-border-radius-bottomleft:0px;-khtml-border-bottom-left-radius:0px;border-bottom-left-radius:0px}.PanelScroller .navControls a:hover{color:rgb(228, 228, 228);text-decoration:none}.PanelScroller .navControls
+a.current{}.PanelScroller .navControls a
+.arrow{display:none}.PanelScroller .navControls a.current
+span{display:block;line-height:0px;width:0px;height:0px;border-top:5px solid rgb(222, 222, 222);border-left:5px solid transparent;border-bottom:1px none black;border-right:5px solid transparent;-moz-border-bottom-colors:rgb(222, 222, 222);position:absolute}.PanelScroller .navControls a.current
+.arrow{border-top-color:;top:0px;right:50%;margin-right: -5px}.PanelScroller .navControls a .arrow
+span{border-top-color:rgb(25, 175, 126);top: -6px;right: -5px}.Notices .panel
+.noticeContent{padding-left:25px}
+/* CSS returned from cache. */
